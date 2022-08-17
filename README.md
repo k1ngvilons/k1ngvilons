@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**k1ngvilons/k1ngvilons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o King! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades
+Html, Css, Js, Python, Node & Pawn...
+
+
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kingz4da)
+
+
+## Documentação
+
+[Aviso Importante](https://telegra.ph/Importante-08-17-2)
+
+
+## Suporte
+
+Para suporte, me chame no discord: ! king.#5027
