@@ -1,5 +1,3 @@
-![Logo](https://i.imgur.com/3Mj4P38.png)
-
 ## 🛠 Habilidades
 Html, Css, Js, Python, Node & Pawn...
 ## Documentação
