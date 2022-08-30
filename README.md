@@ -1,4 +1,4 @@
-# ㅤㅤㅤㅤㅤㅤﾠㅤ🍕 Bem Vindos Ao Meu Portfólio 🍕
+# ㅤㅤㅤㅤㅤﾠﾠㅤ🍕 Bem Vindos Ao Meu Portfólio 🍕
 
 <div align="center">
   <a href="https://github.com/k1ngvilons">
