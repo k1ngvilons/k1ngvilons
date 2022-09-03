@@ -10,7 +10,7 @@
   <img align="center" alt="King-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="King-PuTTy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
   <img align="center" alt="King-PuTTy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="King-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/954850537411604500/1013977809678508052/download20220400210234.png">
+  <img align="right" alt="King-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/uakxNoH.jpeg">
 </div>
   
   ##
